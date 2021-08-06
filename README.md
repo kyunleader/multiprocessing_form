@@ -19,8 +19,8 @@
 
  - 간단한 멀티 프로세싱 입니다.
 
- ```pytnon
- import time
+ ```python
+import time
 def count_num(number):
     for i in range(number):
         print(f'{i}번 입니다.')
